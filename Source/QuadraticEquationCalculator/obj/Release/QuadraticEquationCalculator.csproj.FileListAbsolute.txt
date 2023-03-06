@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.exe
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.pdb
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.exe
+C:\Users\user\documents\visual studio 2013\Projects\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.pdb
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.exe.config
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.exe
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.pdb
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.exe
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\bin\Release\QuadraticEquationCalculator.pdb
+F:\!MiscFiles\CSharp\Programs\QuadraticEquationCalculator\QuadraticEquationCalculator\obj\Release\QuadraticEquationCalculator.csprojResolveAssemblyReference.cache
