@@ -1,5 +1,5 @@
 # Quadratic Equation Calculator
-A program for calculating quadratic equations.
+A C# console application for calculating quadratic equations (.NET Framework 4.5 is suggested for optimal functionality).
 
 
 ![bandicam 2023-03-06 16-17-17-807](https://user-images.githubusercontent.com/71328992/223115357-35a72cd9-7b19-4606-9461-7d58753cf792.png)
